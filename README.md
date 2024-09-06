@@ -2,4 +2,4 @@
 
 # A social media app
 
-- This is a server side on Free time project, I have a implement different server in real-time chat with mongoose
+- This is a server side on Link Up project,
